@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node index.js"
+    "start": "rm -rf hps1.js && node index.js"
   },
   "keywords": [
     "autoreadsw",
